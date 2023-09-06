@@ -118,7 +118,6 @@ include "../fungsi/koneksi.php";
 
 <footer class="main-footer">
  <marquee hspace="40" width="full-width">Admin mengolah data user dan data Biaya.</marquee>
- <strong>Copyright &copy; GetKoding 2021 </strong>
 </footer>
 
 <!-- jQuery UI 1.11.4 -->

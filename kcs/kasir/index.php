@@ -121,7 +121,6 @@ include "../fungsi/koneksi.php";
 
   <footer class="main-footer">
    <marquee hspace="40" width="full-width">Kasir mengolah data Transaksi.</marquee>
-   <strong>Copyright &copy; GetKoding 2021 </strong>
  </footer>
 
  <!-- jQuery UI 1.11.4 -->
