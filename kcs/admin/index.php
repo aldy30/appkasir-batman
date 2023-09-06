@@ -49,7 +49,7 @@ include "../fungsi/koneksi.php";
     <header class="main-header">
      <div class="logo">
 
-      <span class="logo-lg"><b>GET CUCI STEAM</b></span>
+      <span class="logo-lg"><b>KASIR CUCI STEAM</b></span>
     </div>
     <nav class="navbar navbar-static-top" role="navigation">
       <!-- Sidebar toggle button-->

@@ -40,7 +40,7 @@ div.tengah {
 <table>
   <tr>
 
-    <td align="left" style="width: 1350px;"><font style="font-size: 18px"><b>GET CUCI STEAM</b></font>
+    <td align="left" style="width: 1350px;"><font style="font-size: 18px"><b>KASIR CUCI STEAM</b></font>
      <br>Jl. Haji Mean Raya No.47 </td>
       
     </tr>

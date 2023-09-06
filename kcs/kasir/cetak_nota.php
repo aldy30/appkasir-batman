@@ -37,7 +37,7 @@ $no_nota = $_GET['no_nota'];
 
 <table class="tabelkepala">
   <tr>
-    <td style="text-align: center;"><b>GET CUCI STEAM </b></font>
+    <td style="text-align: center;"><b>KASIR CUCI STEAM </b></font>
       <br>Jl. Haji Mean Raya No.47 </td>
     </tr>
   </table>
